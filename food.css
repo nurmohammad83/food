@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    display: flex;
+}
+.health{
+    width: 40%;
+
+}
+.health{
+    width:40%;
+    float: left;
+    margin-top: 10%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.health img{
+     width: 100%;
+}
+h1{
+    font-size: 3.5rem;
+}
+p{
+    font-size: 1.6rem;
+}
+.exe{
+    color: orange;
+}
+.female{
+    width: 40%;
+    background-image: ;
+}
